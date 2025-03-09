@@ -1,0 +1,6 @@
+<svg id="machines" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <path id="Path_690" data-name="Path 690" d="M0,0H24V24H0Z" fill="none"/>
+  <path id="Path_691" data-name="Path 691" d="M4,13a8,8,0,0,1,7,7,6,6,0,0,0,3-5,9,9,0,0,0,6-8,3,3,0,0,0-3-3,9,9,0,0,0-8,6,6,6,0,0,0-5,3" fill="none" stroke="#2c3e50" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  <path id="Path_692" data-name="Path 692" d="M7,14a6,6,0,0,0-3,6,6,6,0,0,0,6-3" fill="none" stroke="#2c3e50" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  <circle id="Ellipse_270" data-name="Ellipse 270" cx="1" cy="1" r="1" transform="translate(14 8)" fill="none" stroke="#2c3e50" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+</svg>
