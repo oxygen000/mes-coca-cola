@@ -6,6 +6,7 @@ import PerformanceIndicator from './Performance-Indicator'
 import PowerKPI from './Power-KPI'
 import LineGraph from './Line-Graph'
 import CurrentActivity from './Current-Activity'
+import Timeline from './Time-line'
 
 function Page() {
   const pathname = usePathname();
@@ -21,20 +22,24 @@ function Page() {
       <h1 className="text-xl font-semibold text-gray-700 mb-4">
         Dashboard {currentPage && ` / ${currentPage}`}
       </h1>
-      <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+
+      {/* الشبكة العلوية */}
+      <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
         <TotalProduction />
         <PerformanceIndicator />
         <PowerKPI />
       </div>
-      <div>
-          <CurrentActivity/>
-        </div>
-      <div className=" mt-3 flex justify-end">
-          <LineGraph />
-          
-        </div>
-        
 
+      {/* الشبكة السفلية */}
+      <div className="grid grid-cols-1 lg:grid-cols-3 gap-6 mt-6">
+        <div className="lg:col-span-2">
+          <CurrentActivity />
+          <Timeline/>
+        </div>
+        <div className="lg:col-span-1 flex flex-col gap-6">
+          <LineGraph />
+        </div>
+      </div>
     </div>
   )
 }

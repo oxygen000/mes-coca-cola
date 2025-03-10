@@ -1,0 +1,6 @@
+<svg id="speed" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <path id="Path_703" data-name="Path 703" d="M0,0H24V24H0Z" fill="none"/>
+  <circle id="Ellipse_273" data-name="Ellipse 273" cx="2" cy="2" r="2" transform="translate(10 11)" fill="none" stroke="#2c3e50" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  <line id="Line_195" data-name="Line 195" y1="2.05" x2="2.05" transform="translate(13.45 9.5)" fill="none" stroke="#2c3e50" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  <path id="Path_704" data-name="Path 704" d="M6.4,20a9,9,0,1,1,11.2,0Z" fill="none" stroke="#2c3e50" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+</svg>

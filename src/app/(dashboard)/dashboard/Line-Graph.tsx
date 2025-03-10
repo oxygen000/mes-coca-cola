@@ -21,7 +21,7 @@ const chartConfigs = [
 
 function LineGraph() {
   return (
-    <div className="w-[316px] h-full bg-white shadow-lg rounded-xl p-6 space-y-6">
+    <div className="w-full h-full bg-white shadow-lg rounded-xl p-6 space-y-6">
       {chartConfigs.map(({ label, unit, color }, index) => (
         <div key={index}>
           <div className="flex items-center space-x-2">

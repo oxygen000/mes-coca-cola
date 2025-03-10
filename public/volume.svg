@@ -1,0 +1,9 @@
+<svg id="volume" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <path id="Path_711" data-name="Path 711" d="M0,0H24V24H0Z" fill="none"/>
+  <g id="Group_801" data-name="Group 801" transform="translate(5 7)">
+    <line id="Line_199" data-name="Line 199" y2="5" transform="translate(0 6)" fill="none" stroke="#2c3e50" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+    <line id="Line_200" data-name="Line 200" y2="9" transform="translate(9 2)" fill="none" stroke="#2c3e50" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+    <line id="Line_201" data-name="Line 201" y2="10" transform="translate(5 1)" fill="none" stroke="#2c3e50" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+    <line id="Line_202" data-name="Line 202" y2="11" transform="translate(14)" fill="none" stroke="#2c3e50" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  </g>
+</svg>
