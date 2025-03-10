@@ -14,7 +14,7 @@ function Navbar() {
 
   const planets = [
     { name: "All Factories", path: "/factories" },
-    { name: "Factory Name", path: "/factory-name" },
+    { name: "Factory Name", path: "/dashboard/factoryname" },
     { name: "Planet Name", path: "/dashboard/production" }, 
   ];
 

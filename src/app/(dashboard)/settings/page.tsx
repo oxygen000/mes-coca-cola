@@ -6,7 +6,7 @@ function ProductionPage() {
   const pathname = usePathname();
   let currentPage = pathname.split("/").filter(Boolean).pop();
 
-  if (currentPage && currentPage !== "Machines") {
+  if (currentPage && currentPage !== "Settings") {
     currentPage = currentPage.charAt(0).toUpperCase() + currentPage.slice(1);
   } else {
     currentPage = "";
@@ -15,7 +15,7 @@ function ProductionPage() {
   return (
     <div className="p-6">
       <h1 className="text-xl font-semibold text-gray-700 mb-4">
-      Machines 
+      Settings 
       </h1>
      
 

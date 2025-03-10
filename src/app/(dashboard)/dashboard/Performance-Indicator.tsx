@@ -16,7 +16,6 @@ function PerformanceIndicator() {
 
   return (
     <div className="bg-white rounded-xl w-full h-[212px] shadow-lg p-4 flex flex-col justify-between">
-      {/* Header */}
       <div>
         <div className="flex items-center space-x-3">
           <Image src="/pereformance-icon.svg" alt="performance" width={24} height={24} />
