@@ -13,9 +13,9 @@ function Navbar() {
   const [activeButton, setActiveButton] = useState("Today");
 
   const planets = [
-    { name: "All Factories", path: "/factories" },
+    { name: "All Factories", path: "/dashboard/production" },
     { name: "Factory Name", path: "/dashboard/factoryname" },
-    { name: "Planet Name", path: "/dashboard/production" }, 
+    { name: "Planet Name", path: "/dashboard" }, 
   ];
 
   return (
